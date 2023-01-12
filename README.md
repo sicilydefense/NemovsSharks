@@ -10,6 +10,6 @@
 
 ------------
 
-##### In-Game Menu
+##### In-Game Screenshot
 
 ![In-Game Screenshot](https://github.com/sicilydefense/NemovsSharks/blob/main/NemoVsSharks/in_game.png?raw=true "In-Game Screenshot")
