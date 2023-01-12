@@ -13,3 +13,5 @@
 ##### In-Game Screenshot
 
 ![In-Game Screenshot](https://github.com/sicilydefense/NemovsSharks/blob/main/NemoVsSharks/in_game.png?raw=true "In-Game Screenshot")
+
+###### How to play: You need to open all file in Python IDE or vscode, etc. Then run the 'NemovsSharks.py' file.
